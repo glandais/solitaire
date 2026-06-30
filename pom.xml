@@ -13,12 +13,12 @@
         <maven.compiler.target>21</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-        <lombok.version>1.18.30</lombok.version>
-        <jansi.version>2.4.1</jansi.version>
-        <jackson-databind.version>2.16.1</jackson-databind.version>
-        <picocli.version>4.7.5</picocli.version>
+        <lombok.version>1.18.46</lombok.version>
+        <jansi.version>2.4.3</jansi.version>
+        <jackson-databind.version>2.22.0</jackson-databind.version>
+        <picocli.version>4.7.7</picocli.version>
         <javafx.version>21.0.2</javafx.version>
-        <caffeine.version>3.1.8</caffeine.version>
+        <caffeine.version>3.2.4</caffeine.version>
     </properties>
 
     <dependencies>
@@ -66,7 +66,7 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-shade-plugin</artifactId>
-                <version>3.5.2</version>
+                <version>3.6.2</version>
                 <executions>
                     <execution>
                         <phase>package</phase>
