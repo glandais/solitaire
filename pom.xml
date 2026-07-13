@@ -14,7 +14,7 @@
 
         <lombok.version>1.18.46</lombok.version>
         <jansi.version>2.4.3</jansi.version>
-        <jackson-databind.version>2.22.0</jackson-databind.version>
+        <jackson-databind.version>2.22.1</jackson-databind.version>
         <picocli.version>4.7.7</picocli.version>
         <javafx.version>26.0.1</javafx.version>
         <caffeine.version>3.2.4</caffeine.version>
