@@ -14,10 +14,10 @@
 
         <lombok.version>1.18.48</lombok.version>
         <jansi.version>2.4.3</jansi.version>
-        <jackson-databind.version>2.22.2</jackson-databind.version>
+        <jackson-databind.version>2.22.3</jackson-databind.version>
         <picocli.version>4.7.7</picocli.version>
         <javafx.version>27</javafx.version>
-        <caffeine.version>3.2.4</caffeine.version>
+        <caffeine.version>3.3.0</caffeine.version>
     </properties>
 
     <dependencies>
